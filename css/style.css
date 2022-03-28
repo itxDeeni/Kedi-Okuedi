@@ -517,7 +517,7 @@ body {
   width: 100%;
   display: -webkit-flex;
   display: flex;
-  background: #c0392b;
+  background: #cc2b1d;
   margin-bottom: -60px;
 }
 .section9 .section9a {
@@ -1749,16 +1749,17 @@ a.button1:hover i {
 .main-boxes .one-box1 {
   width: 33.33%;
   float: left;
-  background: #ecf0f1;
+  background: #fdbb30;
 }
 .main-boxes .one-box1 h3 {
   font-weight: 700;
+  color: #fff;
 }
 .main-boxes .one-box1 .one-box1-inner {
   width: 100%;
   float: left;
   padding: 102px 0;
-  background: #ecf0f1;
+  background: #fdbb30;
 }
 .main-boxes .one-box2 {
   width: 33.33%;
@@ -1769,7 +1770,7 @@ a.button1:hover i {
   width: 100%;
   float: left;
   padding: 50px 0;
-  background: #2c3e50;
+  background: #0165ff;
 }
 .main-boxes .one-box2 h2 {
   display: inline-block;
@@ -1809,7 +1810,7 @@ a.button1:hover i {
 .main-boxes .one-box3 {
   width: 33.33%;
   float: left;
-  background: #c0392b;
+  background: #cc2b1d;
 }
 .main-boxes .one-box3 h3 {
   font-weight: 700;
@@ -2501,10 +2502,14 @@ footer.bottom {
   width: 100%;
   float: left;
   padding: 100px 0 50px 0;
-  background: #ecf0f1;
+  background: #fdbb30;
 }
 footer.bottom h5 {
   font-weight: bold;
+  color: #fff;
+}
+footer.bottom p{
+  color: #ecf0f1;
 }
 @media (max-width: 992px) {
   footer.bottom {
