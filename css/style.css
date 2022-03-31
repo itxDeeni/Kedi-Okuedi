@@ -1297,10 +1297,9 @@ html[xmlns] .flexslider .slides {
   color: #2c3e50;
 }
 .flex-caption1 h1.caption-headline,
-.flex-caption1 h2.caption-headline {
+.flex-caption1 h5.caption-headline {
   font-weight: 700;
   font-family: "domine";
-  font-size: 43px;
   margin-bottom: 19px;
   line-height: 1;
   color: #cc2b1d;
@@ -1345,7 +1344,7 @@ html[xmlns] .flexslider .slides {
 .flex-caption2 h2.caption-headline {
   font-weight: 700;
   font-family: "domine";
-  font-size: 43px;
+  font-size: 35px;
   margin-bottom: 19px;
   line-height: 1;
   color: #c0392b;
@@ -1354,7 +1353,7 @@ html[xmlns] .flexslider .slides {
 .flex-caption2 h2.caption-subheadline {
   font-weight: 700;
   font-family: "montserrat";
-  font-size: 24px;
+  font-size: 19px;
   margin-bottom: 6px;
 }
 .flex-caption2 .caption-list {
