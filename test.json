@@ -1,0 +1,470 @@
+{
+    "loan_request_id": "11269",
+    "clientid": "22221935103",
+    "bs_no_of_months": "6",
+    "bs_channel": "mono",
+    "cbra_debt_obligation": "0",
+  , "Details" : [ {
+
+        "PTransactionDate" : "2021-10-09T00:00:00.000Z",
+    
+        "PValueDate" : "2021-10-09T00:00:00.000Z",
+    
+        "PNarration" : "value added tax 000013201109113818000238864376 vat on ussd nip recovery charge ref:000013201109113818000238864376",
+    
+        "PCredit" : "300000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "300019.77"
+    
+      }, {
+    
+        "PTransactionDate" : "2021-10-15T00:00:00.000Z",
+    
+        "PValueDate" : "2021-10-15T00:00:00.000Z",
+    
+        "PNarration" : "value added tax 000013201109145056000239215823 vat on nip transfer for 000013201109145056000239215823 for upholstery to dbn/salawudeen gazali ref:000013201109145056000239215823",
+    
+        "PCredit" : "30000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "330019.77"
+    
+      }, 
+    
+      {
+    
+        "PTransactionDate" : "2021-10-15T00:00:00.000Z",
+    
+        "PValueDate" : "2021-10-15T00:00:00.000Z",
+    
+        "PNarration" : "110006210726102925007042071601|SALARY PAYMENT FOR OCT 2021 BY MONO TECHNOLOGIES NIGERIA LIMITEDBENTO LABS INC|0007042071601||PAYSTACK REF:110006210726102925007042071601",
+    
+        "PCredit" : "400000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "730019.77"
+    
+      },{
+    
+        "PTransactionDate" : "2021-11-21T00:00:00.000Z",
+    
+        "PValueDate" : "2021-11-21T00:00:00.000Z",
+    
+        "PNarration" : "pos/web purchase transaction -260127- -695374-crib-delaroke servic ri ring",
+    
+        "PCredit" : "",
+    
+        "PDebit" : "50000",
+    
+        "PBalance" : "680019.77"
+    
+      }, {
+    
+        "PTransactionDate" : "2021-11-27T00:00:00.000Z",
+    
+        "PValueDate" : "2021-11-27T00:00:00.000Z",
+    
+        "PNarration" : "COT SMS CHARGES commission 000013201109113818000238864376 ussd nip recovery charge ref:000013201109113818000238864376",
+    
+        "PCredit" : "0",
+    
+        "PDebit" : "500",
+    
+        "PBalance" : "679519.77"
+    
+      }, 
+    
+      {
+    
+        "PTransactionDate" : "2021-11-28T00:00:00.000Z",
+    
+        "PValueDate" : "2021-11-28T00:00:00.000Z",
+    
+        "PNarration" : "110006210726102925007042071601|SALARY PAYMENT FOR NOV 2021 BY MONO TECHNOLOGIES NIGERIA LIMITEDBENTO LABS INC|0007042071601||PAYSTACK REF:110006210726102925007042071601",
+    
+        "PCredit" : "400000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1079519.77"
+    
+      },{
+    
+        "PTransactionDate" : "2021-12-03T00:00:00.000Z",
+    
+        "PValueDate" : "2021-12-03T00:00:00.000Z",
+    
+        "PNarration" : "commission 000013201109145056000239215823 nip transfer commission for 000013201109145056000239215823 for upholstery to dbn/salawudeen gazali ref:000013201109145056000239215823",
+    
+        "PCredit" : "0",
+    
+        "PDebit" : "25000",
+    
+        "PBalance" : "1054519.77"
+    
+      }, {
+    
+        "PTransactionDate" : "2021-12-09T00:00:00.000Z",
+    
+        "PValueDate" : "2021-12-09T00:00:00.000Z",
+    
+        "PNarration" : "commission 000013201109115012000238888440 ussd nip recovery charge ref:000013201109115012000238888440",
+    
+        "PCredit" : "0",
+    
+        "PDebit" : "300000",
+    
+        "PBalance" : "754519.77"
+    
+      }, {
+    
+        "PTransactionDate" : "2021-12-15T00:00:00.000Z",
+    
+        "PValueDate" : "2021-12-15T00:00:00.000Z",
+    
+        "PNarration" : "nibss instant payment outward 000013201109145056000239215823 for upholstery to dbn/salawudeen gazali /53.75/ref:000013201109145056000239215823",
+    
+        "PCredit" : "0",
+    
+        "PDebit" : "67000",
+    
+        "PBalance" : "687519.77"
+    
+      } , {
+    
+        "PTransactionDate" : "2020-12-21T00:00:00.000Z",
+    
+        "PValueDate" : "2020-12-21T00:00:00.000Z",
+    
+        "PNarration" : "value added tax 000013201109115012000238888440 vat on ussd nip recovery charge ref:000013201109115012000238888440",
+    
+        "PCredit" : "0",
+    
+        "PDebit" : "7200",
+    
+        "PBalance" : "680319.77"
+    
+      }, {
+    
+        "PTransactionDate" : "2020-12-27T00:00:00.000Z",
+    
+        "PValueDate" : "2020-12-27T00:00:00.000Z",
+    
+        "PNarration" : "pos/web purchase transaction -465450- -844768-crib-delaroke servic ri ring",
+    
+        "PCredit" : "0",
+    
+        "PDebit" : "20000",
+    
+        "PBalance" : "660319.77"
+    
+      }, 
+    
+      {
+    
+        "PTransactionDate" : "2021-12-28T00:00:00.000Z",
+    
+        "PValueDate" : "2021-12-28T00:00:00.000Z",
+    
+        "PNarration" : "110006210726102925007042071601|SALARY PAYMENT FOR DEC 2021 BY MONO TECHNOLOGIES NIGERIA LIMITEDBENTO LABS INC|0007042071601||PAYSTACK REF:110006210726102925007042071601",
+    
+        "PCredit" : "400000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1060319.77"
+    
+      },{
+    
+        "PTransactionDate" : "2022-01-02T00:00:00.000Z",
+    
+        "PValueDate" : "2022-01-02T00:00:00.000Z",
+    
+        "PNarration" : "commission 000013201109144743000239210069 nip transfer commission for 000013201109144743000239210069 for tfare for provision and monthly mtce at to zbn/esther omawumi daibo ref:000013201109144743000239210069",
+    
+        "PCredit" : "0",
+    
+        "PDebit" : "30000",
+    
+        "PBalance" : "1030319.77"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-01-08T00:00:00.000Z",
+    
+        "PValueDate" : "2022-01-08T00:00:00.000Z",
+    
+        "PNarration" : "nibss instant payment outward 000013201109144743000239210069 for tfare for provision and monthly mtce at to zbn/esther omawumi daibo /53.75/ref:000013201109144743000239210069",
+    
+        "PCredit" : "300000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1120677.26"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-01-14T00:00:00.000Z",
+    
+        "PValueDate" : "2022-01-14T00:00:00.000Z",
+    
+        "PNarration" : "value added tax 000013201109144743000239210069 vat on nip transfer for 000013201109144743000239210069 for tfare for provision and monthly mtce at to zbn/esther omawumi daibo ref:000013201109144743000239210069",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1195677.26"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-01-20T00:00:00.000Z",
+    
+        "PValueDate" : "2022-01-20T00:00:00.000Z",
+    
+        "PNarration" : "transfer between customers 100004201109110011100264433913|transfer from to daibo sunday amorighoye|100004201109110011100264433913||mariam daibo ref:100004201109110011100264433913",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1195681.01"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-01-26T00:00:00.000Z",
+    
+        "PValueDate" : "2022-01-26T00:00:00.000Z",
+    
+        "PNarration" : "nibss instant payment outward 000013201109115012000238888440 ussd nip transfer from 07036950953 to fbn/friday faith /26.875/ref:000013201109115012000238888440",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1114318.989999999991"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-01-27T00:00:00.000Z",
+    
+        "PValueDate" : "2022-01-27T00:00:00.000Z",
+    
+        "PNarration" : "110006210726102925007042071601|SALARY PAYMENT FOR JAN 2022 BY MONO TECHNOLOGIES NIGERIA LIMITEDBENTO LABS INC|0007042071601||PAYSTACK REF:110006210726102925007042071601",
+    
+        "PCredit" : "400000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "21.64"
+    
+      },{
+    
+        "PTransactionDate" : "2022-02-01T00:00:00.000Z",
+    
+        "PValueDate" : "2022-02-01T00:00:00.000Z",
+    
+        "PNarration" : "nibss instant payment outward 000013201109113818000238864376 ussd nip transfer from 07036950953 to wema/sampson adive /26.875/ref:000013201109113818000238864376",
+    
+     "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1115681.010000000009"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-02-07T00:00:00.000Z",
+    
+        "PValueDate" : "2022-02-07T00:00:00.000Z",
+    
+        "PNarration" : "pos/web purchase transaction -646727- -201759-tradera llc 800-9683983 txus 99 usd",
+    
+        "PCredit" : "300000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1115681.01000000001"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-02-13T00:00:00.000Z",
+    
+        "PValueDate" : "2022-02-13T00:00:00.000Z",
+    
+        "PNarration" : "pos/web purchase transaction -237683- -667857-okwudili joshua okol fc fcng",
+    
+    "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1154291.01000000001"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-02-19T00:00:00.000Z",
+    
+        "PValueDate" : "2022-02-19T00:00:00.000Z",
+    
+        "PNarration" : "pos/web purchase transaction -155037- -654819-medimed pharmacy la lang",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "6111091.01000000001"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-02-25T00:00:00.000Z",
+    
+        "PValueDate" : "2022-02-25T00:00:00.000Z",
+    
+        "PNarration" : "commission 000013201108152619000237883667 ussd nip recovery charge ref:000013201108152619000237883667",
+    
+         "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "7112971.01000000001"
+    
+      },
+    
+      {
+    
+        "PTransactionDate" : "2022-02-27T00:00:00.000Z",
+    
+        "PValueDate" : "2022-02-27T00:00:00.000Z",
+    
+        "PNarration" : "110006210726102925007042071601|SALARY PAYMENT FOR FEB 2022 BY MONO TECHNOLOGIES NIGERIA LIMITEDBENTO LABS INC|0007042071601||PAYSTACK REF:110006210726102925007042071601",
+    
+        "PCredit" : "400000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "21.64"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-03-03T00:00:00.000Z",
+    
+        "PValueDate" : "2022-03-03T00:00:00.000Z",
+    
+        "PNarration" : "value added tax 000013201108152619000237883667 vat on ussd nip recovery charge ref:000013201108152619000237883667",
+    
+         "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "7113021.01000000001"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-03-09T00:00:00.000Z",
+    
+        "PValueDate" : "2022-03-09T00:00:00.000Z",
+    
+        "PNarration" : "nibss instant payment outward 000013201108152619000237883667 ussd nip transfer from 07036950953 to fb/john onyekachi & lauretta ukamaka eze /53.75/ref:000013201108152619000237883667",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "7113024.76000000001"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-03-15T00:00:00.000Z",
+    
+        "PValueDate" : "2022-03-15T00:00:00.000Z",
+    
+        "PNarration" : "purchase/transfer commission -378472- -572086-wt|mowah victor augustine lugbe ng",
+    
+         "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "7140324.76"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-03-21T00:00:00.000Z",
+    
+        "PValueDate" : "2022-03-21T00:00:00.000Z",
+    
+        "PNarration" : "value added tax 000013201109113818000238864376 vat on ussd nip recovery charge ref:000013201109113818000238864376",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "1112719.77"
+    
+      }, 
+    
+      {
+    
+        "PTransactionDate" : "2022-03-26T00:00:00.000Z",
+    
+        "PValueDate" : "2022-03-26T00:00:00.000Z",
+    
+        "PNarration" : "110006210726102925007042071601|SALARY PAYMENT FOR MAR 2021 BY MONO TECHNOLOGIES NIGERIA LIMITEDBENTO LABS INC|0007042071601||PAYSTACK REF:110006210726102925007042071601",
+    
+        "PCredit" : "400000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "21.64"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-03-28T00:00:00.000Z",
+    
+        "PValueDate" : "2022-03-28T00:00:00.000Z",
+    
+        "PNarration" : "value added tax 000013201109145056000239215823 vat on nip transfer for 000013201109145056000239215823 for upholstery to dbn/salawudeen gazali ref:000013201109145056000239215823",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "77788821.64"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-03-29T00:00:00.000Z",
+    
+        "PValueDate" : "2022-03-29T00:00:00.000Z",
+    
+        "PNarration" : "pos/web purchase transaction -260127- -695374-crib-delaroke servic ri ring",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "6793925.39"
+    
+      }, {
+    
+        "PTransactionDate" : "2022-03-30T00:00:00.000Z",
+    
+        "PValueDate" : "2022-03-301T00:00:00.000Z",
+    
+        "PNarration" : "COT SMS CHARGES commission 000013201109113818000238864376 ussd nip recovery charge ref:000013201109113818000238864376",
+    
+        "PCredit" : "3000000",
+    
+        "PDebit" : "0",
+    
+        "PBalance" : "8805525.39"
+    
+      }
+    
+        ],
+    "Channel": "Okra",
+    "loan-channel": "Renmobile Android"
+}
