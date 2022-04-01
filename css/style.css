@@ -268,6 +268,9 @@ body {
   float: left;
   width: 100%;
 }
+.aboutTopSection{
+margin-top: 24px;
+},
 .divider-line {
   width: 100%;
   float: left;
