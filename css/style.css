@@ -229,7 +229,7 @@ input[type="submit"]:focus {
   text-align: right;
 }
 .text-center {
-  text-align: center;
+  text-align: justify;
 }
 blockquote {
   float: left;
@@ -1313,8 +1313,9 @@ html[xmlns] .flexslider .slides {
   font-weight: 700;
   font-family: "montserrat";
   font-size: 30px;
-  margin-bottom: 12px;
-  color: #0165ff
+  margin-bottom: 20px;
+  color: #0165ff;
+  line-height:30px;
 }
 .flex-caption1 .caption-list {
   margin-bottom: 25px;
@@ -2457,7 +2458,7 @@ a.button1:hover i {
 }
 .mainheadlinewrapperpage .mainheadlinewrapperpage-inner {
   padding: 50px 0;
-  background: rgba(44, 62, 80, 0.8);
+  background: #0165ff;
 }
 .mainheadlinewrapperpage .mainheadlinepage h1 {
   font-size: 36px;
