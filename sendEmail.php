@@ -5,8 +5,8 @@
   $subject = $_POST['subject'];
 	$comments = $_POST['comments'];
 	
-	$site_owners_email = 'YOUR HOSTING EMAIL ADDRESS'; // Replace this with your own hosting email address
-	$site_owners_name = 'YOUR NAME'; // replace with your name
+	$site_owners_email = 'hello@kedinuwa.com'; // Replace this with your own hosting email address
+	$site_owners_name = 'Kedinuwa Okuedei'; // replace with your name
 	
 	if (strlen($name) < 2) {
 		$error['name'] = "Please enter your name";	
