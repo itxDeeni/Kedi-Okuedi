@@ -1304,7 +1304,7 @@ html[xmlns] .flexslider .slides {
   font-weight: 700;
   font-family: "domine";
   margin-bottom: 19px;
-  font-size: 1.5em;
+  font-size: 2em;
   line-height: 1;
   color: #cc2b1d;
   letter-spacing: 3px;
@@ -1324,7 +1324,7 @@ html[xmlns] .flexslider .slides {
 .flex-caption1 p {
   font-weight: 400;
   font-family: "montserrat";
-  font-size: 19px;
+  font-size: 25px;
   margin-bottom: 12px;
 }
 .flex-caption1 i {
