@@ -39,13 +39,13 @@
 		
 		
 		$mail->IsSMTP(); 
- 		$mail->Host = "YOUR HOST ADDRESS";
-		$mail->Port = YOUR HOST PORT NUMBER;
-		$mail->SMTPSecure = "tls"; 
+ 		$mail->Host = "thirtyseven.qservers.net";
+		$mail->Port = 993;
+		$mail->SMTPSecure = "tls";
 		
 		$mail->SMTPAuth = true; // turn on SMTP authentication
-		$mail->Username = "YOUR HOSTING EMAIL ADDRESS"; 
-		$mail->Password = "YOUR HOSTING EMAIL PASSWORD"; 
+		$mail->Username = "hello@kedinuwa.com"; 
+		$mail->Password = "Kedinuwa@2023"; 
 		
 		$mail->Send();
 		
