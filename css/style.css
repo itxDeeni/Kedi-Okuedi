@@ -1135,10 +1135,24 @@ html[xmlns] .flexslider .slides {
 @media screen and (max-width: 992px) {
   .flexslider {
     margin: 0 auto;
+    background-color: #2c3e50;
   }
 }
 .flexslider .slides {
   zoom: 1;
+}
+.flexslider .flex-caption1 p{
+  color: #fff;
+  text-align: left;
+}
+
+.flexslider .flex-caption1 .caption-headline{
+  font-size:15px;
+}
+
+.flexslider .flex-caption1 h5{
+  font-weight: normal;
+
 }
 .flexslider .slides img {
   height: auto;
